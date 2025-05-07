@@ -1,0 +1,202 @@
+% cd ~/Documents/proj_006-KZ_Doku/work && xelatex softbook.tex && makeindex o && makeindex p && xelatex softbook.tex
+\documentclass[a4paper,12pt,ngerman,
+%draft
+]{nisebook}
+
+%% hyphenation
+\hyphenation{la-ger Deu-tsch-land}
+
+%\linespread{1.5}
+
+\begin{document}
+
+%% Coverpage
+\includepdf{images/cover.pdf}
+\newpage ~\newpage
+
+%\frontmatter
+
+\noindent{\Large{Die KZ-Außenlager Görlitz und Rennersdorf}}
+
+\newpage
+\normalsize
+
+%Titelseite
+\begin{titlepage}
+	\title{Die KZ-Außenlager\\ Görlitz und Rennersdorf\vspace{10 pt}
+	\\\large{Ein Beitrag zur Aufarbeitung der Geschehnisse\\ im Konzentrationslager Groß-Rosen}}
+	\author{Niels Seidel}
+  \maketitle
+\end{titlepage}
+
+
+%Zu Ehren der Opfer,\\
+%allen anderen zur Mahnung\\
+%- meinen Eltern gewidmet.
+%\begin{center}\emph{Für meine Eltern}\end{center}
+\small{
+Herausgeber: Umweltbibliothek Großhennersdorf e.V.\\
+www.umweltbibliothek.org | mail@umweltbiblithek.org
+\\ \\
+\textbf{Die KZ-Außenlager Görlitz und Rennersdorf}\\
+Ein Beitrag zur Aufarbeitung der Geschehnisse\\ im Konzentrationslager Groß-Rosen
+\\ \\
+Autor: Niels Seidel\\
+\href{http://www.nise81.com}{www.nise81.com} | \href{mailto:niels.seidel@nise81.com}{niels.seidel@nise81.com}\\
+Version: 2.0\\
+Datum: \today\\
+
+\vspace{2.5cm}
+
+
+Diese Publikation ist unter \emph{Creative Commons -- Namensnennung-NichtKommerziell-KeineBearbeitung 3.0 Deutschland} lizenziert und darf als Ganzes oder ausschnittweise vervielfältigt, verbreitet und öffentlich zugänglich gemacht werden, sofern dies im Text nicht anders vermerkt ist.\newline\vspace{10pt}
+\includegraphics[height=20mm]{images/logo_cc.pdf}
+%\includegraphics[height=15mm]{logo_BMFSFJ}
+%\includegraphics[height=15mm]{logo_vielfaltTutGut}
+\\ \\ \\
+
+
+Die 1. Auflage erschien im Neisse Verlag, Dresden 2008\\
+ISBN 978-3-940310-19-4\\
+www.neiseverlag.de | mail@neisseverlag.de\\ \\
+
+Lektorat: Luise Träger\\
+Gestaltung und Satz: Niels Seidel / \LaTeX\\
+Titelbild: Selbstportrait von Ben Mącznik aus dem Privatbesitz seines Sohnes Samson Munn.\\ \\
+%Druck: Wroc\l awska Drukarnia Naukowa, PAN Wroc\l aw
+
+}
+\normalsize
+\newpage
+\pagestyle{plain}
+\setcounter{page}{5}
+\tableofcontents
+\newpage
+
+
+%%%%
+\input{chapter/intro.tex}
+
+%%%%
+\chapter{Das KZ-Außenlager Görlitz}
+\input{chapter/goerlitz.tex}
+
+%%%%
+\chapter{Evakuierung nach Rennersdorf und Befreiung in Görlitz}
+\input{chapter/todesmarsch.tex}
+%%
+\section{Das Ausweichlager Rennersdorf}
+\input{chapter/rennersdorf.tex}
+%%
+\section{Die letzten Wochen vor der Befreiung}
+\input{chapter/befreiung.tex}
+
+%%%%
+\chapter{Ermittlungen gegen NS-Verbrechen}
+\input{chapter/ermittlungen.tex}
+
+%%%%
+\chapter{Gedenken und Erinnerung der Opfer}
+\input{chapter/gedenken.tex}
+
+%%%%
+\chapter{Zusammenfassung}
+\input{chapter/abstract.tex}
+
+
+\newpage\thispagestyle{empty}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\index{o}{Mukatschewe|see{Munkacs}}
+\index{o}{Trzebień|see{Kittliztreben}}
+\index{o}{Wrocław-Leśnica|see{Breslau-Lissa}}
+\index{o}{Mi\l oszyce|see{Fünfteichen}}
+\index{o}{\L \'od\'z|see{Litzmannstadt}}
+\index{o}{Brn\v enec|see{Brünnlitz}}
+\index{o}{Bielawa|see{Langenbielau}}
+\index{o}{Sosnowiec|see{Sosnowitz}}
+\index{o}{Będzin|see{Bendsburg}}
+\index{o}{Chrzanow|see{Krenau}}
+\index{o}{Chust|see{Husst}}
+\index{o}{Dąbrowa Górnicza|see{Dombrowa}}
+\index{o}{Zabrze|see{Hindenburg}}
+\index{o}{Opole|see{Oppeln}}
+\index{o}{Che\l mno|see{Kulmhof}}
+\index{o}{Kamjanez-Podilskyj|see{Kamenetz-Podolski}}
+\index{o}{Sieniawka|see{Kleinschönau}}
+\index{o}{Zittau|see{Kleinschönau}}
+\index{o}{Cluj-Napoca|see{Klausenburg}}
+\index{o}{Krapkowice|see{Otmuth-Krappitz}}
+\index{o}{Męcinka|see{Hermannsdorf}}
+\index{o}{Boles\l awiec|see{Bunzlau}}
+\index{o}{Chrastava|see{Kratzau}}
+\index{o}{Psie Pole k Wroc\l awia|see{Breslau-Hundsfeld}}
+\index{o}{Chrzanow|see{Krenau}}
+\index{o}{Mukatschewe|see{Munkacs}}
+\index{o}{Bojanice|see{Ludwigsdorf}}
+\index{o}{Sohland am Rotstein|see{Obersohland}}
+\index{o}{Jablonné v Podještědí|see{Deutsch-Gabel}}
+\index{o}{Frydland|see{Friedland}}
+\index{o}{Teplice|see{Teplitz-Schönau}}
+\index{o}{Miloszow|see{Hartmannsdorf}}
+\index{o}{Z\l otoryja|see{Goldberg}}
+\index{o}{Żary|see{Sorau}}
+\index{o}{Lubsko|see{Sommerfeld}}
+\index{o}{Węgliniec|see{Kohlfurt}}
+%%
+\index{p}{Kreisleiter Görlitz|see{Malitz, Dr. Bruno}}
+\index{p}{Lagerkommandant|see{Rechenberg, Erich}}
+\index{p}{Lagerführer|see{Zunker, Winfried}}
+\index{p}{Lagerschreiber|see{Schiffer, Emmrich}}
+\index{p}{Wischalla, Egon|see{Stellmach, Ludwig Egon}}
+\index{p}{Lagerältester|see{Czech, Hermann}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\backmatter
+\appendix
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Testimonien}
+\input{chapter/testimonies.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{chapter/opferlisten.tex}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\input{chapter/erinnerungsorte.tex}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Verzeichnisse}
+\input{chapter/verzeichnisse.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\addcontentsline{toc}{chapter}{Danksagung}%
+\section*{Quellenlage und Danksagung}
+Während meiner siebenjährigen Arbeit gelangte ich an einen, im Vergleich zu anderen Lagern, erstaunlichen Fundus an Schriftstücken, Fotos, Tonaufnahmen, Videos und Luftbildern. Ohne die vielseitige Hilfe, Unterstützung und Verbundenheit bestimmter Personen wäre diese Arbeit nicht zustande gekommen. Aus diesem Grund möchte als Abschluss dieser Arbeit die Gelegenheit nicht verstreichen lassen, mich bei all jenen namentlich zu bedanken.
+%Der Großteil dieser Quellen besteht aus Berichten bzw. Befragungen von Überlebenden und anderen Zeitzeugen. Die über hundert Überlebendenberichte bieten zwar reichhaltige Informationen über die Geschehnisse im Lager, sind im einzelnen jedoch weniger verlässlich, als die bescheidene Anzahl an aufgefunden Dokumenten der beteiligten Instanzen von Staat, SS und Unternehmertum. Mündlichen Überlieferungen aus der unmittelbaren Nachkriegszeit bzw. solche von Personen, die über erheblich mehr Einsichten als andere verfügten, fanden deshalb vorzüglich Beachtung.
+\\
+Unschätzbar verbunden bin ich Anna Hyndr\'akov\'a, Rona Agnec, Schlomo Graber und Monik Mlynarski, die als Überlebende der KZ-Außenlager Görlitz und Rennersdorf bereit waren, mit mir zu reden. Die Momente während dieser Gespräche haben mich sehr berührt und nachhaltig geprägt. Als Zeitzeugen erster Güte und unnachgiebigen Forscher danke ich dem einst in der Sache Malitz-Meinshausen ermittelnden Polizei-Kommissar Kurt Wolf für die langen und erkenntnisreichen Gespräche und Telefonate, die uns gleichermaßen zu neuen Informationen führten.
+Für ihre Bereitschaft und Zeit zu einer Befragung danke ich den Zeitzeugen Ilse Gießler, Wolfgang und Siegfried Bittrich sowie seiner Frau Edeltraud, Christa Schubert, Elfriede und Bärbel Lorenz, Elfriede und Hans-Joachim Terp, Liesbeth Sägner,Helmut Sperling, Horst Rohland, Günter Scholze, Hannes Heinrich, Gerda Bötig, Hans Joachim Rechenberg und nicht zuletzt auch Alfred und Hildegard Ecke.
+\\
+Als besonderer Glücksfall erwies sich die Bekanntschaft mit Samson Munn, dessen Vater Ben und Onkel Shlomo die Zeit im Görlitzer KZ-Außenlager überlebten. Überaus großzügig schickte er mir Zeichnungen seines Vaters, die im Lager entstanden sind, sowie private Filme, in denen sein Vater über die Erlebnisse in den Konzentrationslagern spricht.
+Bei Roland Otter (Ratsarchiv Görlitz), Professor Dr. Karl-Heinz Gräfe und PD Dr. Manfred Seifert möchte mich an dieser Stelle noch einmal für die konstruktive und kritische Begutachtung meiner Arbeit bedanken.
+\\
+Für ihre vielen Anregungen und weitergegebenen Erfahrungen danke ich folgenden Personen: Dr. Hans Brenner, Hannelore Lauerwald, Dr. Jürgen Hensel (Jüdisch Historisches Institut Warschau), Magdalena Zając (Museum Groß-Rosen), Dr. Dieter Rostowski, Dr. Kretzschmar, Frau Thomas (BStU), dem ehemaligen Berthelsdorfer Bürgermeister Günter John, den Geschichtslehrern Gerd Habel (ehem. Marie Sybill Merian Gymnasium Herrnhut), Sonja Bloß und Martina Wagner (beide Marie Curie Gymnasium Görlitz), Thomas Warcus, Rudolf Sirsch, Pfarrer Taesler, Dr. med. Gerd Eichler, Karl-Heinz Reiche, Andreas Schwarz, Martin Kolotylo, Robert Mietrach und Lyn-Rouven Schirra, ohne den dieses Buch kein Orts- und Personenregister hätte.
+Für Übersetzungen möchte ich mich bei Brett Niedermeier (Hebräisch), Torsten Hanel (Vermittlung von Übersetzern aus dem Polnischen), Janina und Justina Schott sowie Theresa und Edyta Krawetkowski (Polnisch), Jana Langhof (Tschechisch), Martina Bodner (Serbisch) und Eva Fuss (Ungarisch) rechtherzlich bedanken.
+\\
+Andreas Schönfelder und Jörg Wittmann von der Umweltbibliothek Großhennerdorf danke ich für ihre Unterstützung und Herausgeberschaft der ersten Auflage, welche ohne ihre Bemühen um eine Finanzierung, nicht hätte publiziert werden können. Gänzlich nicht zustande gekommen wäre dieses Werk wohl ohne die vielseitige Unterstützung meiner Eltern und ihrer initialen Idee, dem Thema ein Buch zu widmen.\\
+\\
+Zu besonderer Dankbarkeit verpflichtet bin ich dem Dokumentationszentrum Oberer Kuhberg (DZOK) in Ulm und insbesondere Dr. Silvester Lechner und Anette Lein, für ihre ideelle und materielle Unterstützung beim Schreiben dieses Buches. Ohne die Inspiration nach einem Besuch in der Ulmer KZ-Gedenkstätte auf dem Oberen Kuhberg hätte ich wahrscheinlich nie begonnen, mich ernsthaft mit der Thematik der Konzentrationslager in der Oberlausitz zu befassen. Eine solche Institution wie das DZOK, die gleichsam die Aufarbeitung, Erinnerungskultur und Bildung junger Menschen bezüglich des Nationalsozialismus vorantreibt, wäre für Ostsachsen geradezu wünschens- und erstrebenswert. Der Forschungsstand der meisten Groß-Rosener KZ-Außenlager, sowie jene Lager der Organisation Schmelt, ist nach mehr als 60 Jahren immer noch dürftig. Das betrifft jene anderen 11 Lager auf dem heutigen deutschen Territorium ebenso, wie jene in Polen oder Tschechien. Ich hoffe mit diesem Buch weitere Menschen dazu bewegen zu können, bisher kaum bekannte Lager zu erforschen und sich für diese zu interessieren -- auch wenn sie, wie ich, eigentlich keine Historiker sind. Der wissenschaftliche Anspruch dieser Arbeit sollte niemanden davon abhalten, in diesem Buch zu lesen oder nachzuschlagen.
+
+%\addcontentsline{toc}{chapter}{Gedenk- und Erinnerungsorte im Dreiländereck Polen-Tschechien-Deutschland}%
+%\section*{Gedenk- und Erinnerungsorte im Dreiländereck Polen-Tschechien-Deutschland}
+
+
+\section*{Über den Autor}
+Dr. Niels Seidel, 1981 in Löbau geboren und in Herrnhut aufgewachsen, studierte Medieninformatik an der Universität Ulm und promvierte im Bereich Wirtschaftsinformatik an der TU Dresden am Internationel Hochschulinstitut in Zittau. Seit 2017 lehrt und forscht er zu Bildungstechnologien an der FernUniversität in Hagen. Am \textit{Center for Advanced technology for Assistant Learning and Predictive Analytics} (CATALPA) beschäftigt er sich seit 2023 mit Education Data Mining und Learning Analytics in der Hochschulbildung. Als Senior Researcher hat er über einhundert Forschungsarbeiten veröffentlicht, darunter Artikel in renomierten Fachjournalen und hochrangigen Konferenzen.
+
+Seit 2004 widmet er sich der historischen Aufarbeitung der Außenlager des KZ Groß-Rosen und seit 2010 auch dem NS-Propagandafilm Theresienstadt. Aktuelle Ergebnisse dieser Recherchen erscheinen in seinem Blog \url{http://www.nise81.com} und werden gelegentlich in Vorträgen und Publikationen thematisiert.
+
+\end{document}

@@ -1,0 +1,16 @@
+project:
+  type: website
+  render:
+  - main.qmd
+
+format:
+  html:
+    toc: true # hide inline toc
+    theme: cosmo
+
+website:
+  title: "today"
+  sidebar:
+    style: "docked"
+    search: true
+    contents: auto # <--- key line
