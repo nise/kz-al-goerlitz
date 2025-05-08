@@ -1,0 +1,188 @@
+## Vorwort {#vorwort .unnumbered}
+
+Es war im Frühjahr 1994, als der inzwischen verstorbene Altbernsdorfer
+Ortschronist Siegfried Hittig uns Schüler anlässlich der Projekttage am
+Herrnhuter Gymnasium von einem Zug jüdischer Häftlinge erzählte, der
+sich zu Kriegsende, von Bernstadt kommend, am Fuße des Eichler-Berges in
+Rennersdorf verlor und schier spurlos verschwand. Niemand konnte mir
+eine Antwort darauf geben, was sich in diesem kleinen Dorf unweit der
+heutigen Grenzen zu Polen und der Tschechischen Republik im Winter 1945
+abspielte. Weder meine Lehrer, noch meine um Rennersdorf ansässige
+Verwandtschaft hatten die leiseste Ahnung davon, was die Schülerin Katja
+Junge in einer Hausarbeit über das KZ Biesnitzer Grund fast 10 Jahre
+später zur Sprache brachte. Das Ausmaß und allein schon die Existenz
+nationalsozialistischer Konzentrationslager jenseits von Auschwitz und
+Buchenwald, sondern in der Oberlausitz, machten mich betroffen und
+neugierig zugleich. Rennersdorf war kein Einzelfall. Orte wie Bautzen,
+Großkoschen, Guben, Kamenz, Klein-Radisch, Niesky, Kunnerwitz,
+Niederoderwitz, Spohla, Weißwasser und Zittau reihen sich auf deutscher
+Seite ebenso in die Liste der ehemaliger Außenlager des KZ Groß-Rosen
+ein, wie das KZ-Außenlager in Görlitz, dessen Häftlinge sich 1945 auf
+einen Todesmarsch in das dafür gebildete Lager nach Rennersdorf begaben.
+Katja Junges Arbeit und die bis dato einzigen wissenschaftlichen
+Publikationen von Roland Otto bzw. Gräfe und Töpfer, in denen die
+KZ-Außenlager Görlitz und Rennersdorf ausführlicher Erwähnung fanden,
+ließen viele Fragen unbeantwortet und eröffneten lediglich die
+Auseinandersetzung mit einer Vielzahl von Aspekten. Dieses Versäumnis
+ist nicht den Autoren vorzuwerfen, sondern der Tatsache geschuldet, dass
+vorhandene Quellen bis 1990 gar nicht oder nur schwierig zugänglich
+waren. Beispielsweise hielt das Ministerium für Staatssicherheit
+sämtliche Prozessakten der Gerichtsverfahren gegen beteiligte
+NS-Verbrecher unter Verschluss, so dass selbige Dokumente noch heute nur
+mit erheblichen Auflagen eingesehen werden können. Darüber hinaus war es
+Historikern in der DDR nicht möglich, uneingeschränkt ausländische
+Archive zu kontaktieren und Informationen zu erbitten, geschweige denn,
+Zeitzeugen im westlichen Ausland zu besuchen. Roland Otto hatte noch
+dazu erhebliche Probleme, seine Diplomarbeit über die Verfolgung der
+Juden in Görlitz durchzusetzen, da er den so genannten Antifaschisten
+nicht die von ihnen allein beanspruchte Opferrolle zubilligte. Abgesehen
+von den damaligen politischen Blockaden war es vor dem Zeitalter des
+Internets schwierig, Personen, Orte und verschiedene Medien ausfindig zu
+machen oder in einem Zuge alle Jüdischen Gemeinden in Nordamerika auf
+der Suche nach Überlebenden zu kontaktieren.
+
+Anliegen dieses Buches ist es, die Gräuel des NS-Terrors jenseits von
+Buchwald und Auschwitz anhand der Erscheinung der KZ-Außenlager Görlitz
+und Rennersdorf exemplarisch zu vergegenwärtigen. Wer etwas über den
+Holocaust erfahren will, braucht nicht unbedingt in eine der bekannten
+KZ-Gedenkstätten fahren, wenn sich dutzende stille und unscheinbare
+Erinnerungs- und Gedenkorte in unmittelbarer Nachbarschaft befinden. Die
+in diesem Werk dokumentierten Geschehnisse leisten einen Beitrag für
+eine regionale und öffentliche Auseinandersetzung mit den
+zurückliegenden Diktaturen im Sinne einer zeitgemäßen Erinnerungsarbeit.
+Nicht zuletzt, um fremdenfeindlichen Tendenzen in der Oberlausitz
+entgegenzuwirken und den europäischen Dialog zu fördern.
+
+## Vorwort zur zweiten Auflage {#vorwort-zur-zweiten-auflage .unnumbered}
+
+Für die Herausgabe einer zweiten Auflage habe ich zwei Gründe. Erstens
+waren die 500 Exemplare der ersten Auflage im Neisse Verlag innerhalb
+von neun Monaten beim Verlag vergriffen und zweitens erlangte ich durch
+Leserbriefe, Rezensionen und nicht zuletzt durch die Auszeichnung mit
+dem Sächsischen Landespreis für Heimatforschung (Jugendpreis) vielfache
+Hinweise, das bestehende Werke zu verbessern und gewisse Abschnitte zu
+vertiefen. Um die Verfügbarkeit künftig länger aufrecht zu erhalten,
+habe ich mich bewusst für eine digitale Publikation unter der freien
+Lizenz von *Creative Commons* entschieden. Neue Erkenntnisse finden
+somit schneller zum Leser. Eine Übersicht über die Änderungen dieser
+Version sind im *changelog*[^1] verzeichnet.
+
+## Einleitung {#einleitung .unnumbered}
+
+Ein Konzentrationslager war ursprünglich gleichbedeutend mit einem
+Gefangen- oder Internierungslager, in den Gruppen von Menschen
+festgehalten und konzentriert wurden. Zunächst betraf dies insbesondere
+Frauen und Kinder, die man angeblich aus Schutz vor Kampfhandlungen in
+solchen Lagern verwahrte. In Wahrheit diente die Gefangennahme als
+politisches Druckmittel, wie etwa im amerikanisch-spanischen Krieg oder
+dem Burenkrieg. Zumal diese Lager jeweils nur als vorübergehende
+Maßnahme gedacht waren, entsprachen sie in ihrem Wesen nicht dem
+systematischen Terror der nationalsozialistischen oder sowjetischen
+Lager[^2]. Gänzlich unabhängig von Kriegshandlungen wurde erstmals in
+Deutsch-Südwestafrika (heute Namibia) der Versuch unternommen Menschen
+in Konzentrationslagern zu internieren und durch Zwangsarbeit in so
+genannten Konzentrationslagern zu Grunde zu richten[^3]. Der
+vorangegangene Versuch das Volk der Hereros vollkommen auszulöschen
+wurde durch Kaiser Wilhelm II aufgrund von Medienprotesten und
+wirtschaftlichen Belangen zwar abgebrochen, doch ebenso rassistisch und
+brutal durch Sklavenarbeit in Eisenbahnprojekten, sowie in privaten
+Wirtschaftsunternehmen fortgesetzt[^4].
+
+Noch vor den Nationalsozialisten etablierte die Sowjetunion ein
+riesiges, dauerhaftes Lagersystem als administrative Maßnahme zur
+Isolation, Bestrafung und Versklavung politischer oder krimineller
+Delinquenten bzw. unschuldiger Menschen. Bereits im Jahre 1923
+entwickelte die Lagerleitung auf den Solowezki-Inseln am Weißrussischen
+Meer, ähnlich wie später in deutschen Konzentrationslagern, ein System
+der teilweisen Selbstverwaltung durch politische Häftlinge. Zu dem wurde
+ein Normensystem zur Maximierung der Arbeitsleistung geschaffen, dass
+sprichwörtlich die Vernichtung von Leben innerhalb der ersten drei
+Monate zum Ziel hatte[^5]. Im Hinblick auf Organisation, wirtschaftliche
+Erwägungen und Massenmord gibt es weiterreichende Parallelen, aber
+natürlich auch Unterschiede zum System der nationalsozialistischen
+Konzentrationslager, auf die hier jedoch nicht weiter eingegangen werden
+soll.
+
+Als Mittel staatspolizeilicher Gewalt fungierten die Konzentrationslager
+während der gesamten 12-jährigen Herrschaft der Nationalsozialisten.
+Formal legitimiert durch die Verordnung des Reichspräsidenten zum Schutz
+von Volk und Staate wurden Beschränkungen der persönlichen Freiheit
+\[\...\] außerhalb der sonst hierfür bestimmten gesetzlichen Grenzen
+\[\...\][^6] zur gängigen Praxis, um Personen für unbestimmte Zeit und
+ohne richterliche Verfügung in sogenannte Schutzhaft zu nehmen.
+Schutzhaft hatte den Charakter einer staatspolizeilichen
+Repressionsmaßnahme und diente durchaus nicht, wie es der Name vermuten
+läßt, dem Schutz der betreffenden Person.\
+Die Entwicklung der Konzentrationslager einschließlich der Schutzhaft
+wurde durch die jeweilige außenpolitische Situation geprägt und lässt
+sich in vier Phasen einteilen. Während der Jahre 1933--1935 spricht man
+von der ersten Phase, in der die Schutzhaft als Instrument der
+Herrschaftssicherung diente. Die Isolation führender Oppositioneller
+brachte den Widerstand gegen die Nationalsozialisten zum Erliegen und
+sorgte für eine soziale Formierung der Gesellschaft. Es entstanden eine
+Reihe von kleinen Konzentrationslagern, wie zum Beispiel in Niesky,
+Weißwasser, Leschwitz (heute: Weinhübel bei Görlitz) und Hainewalde, von
+denen nach einer straffen Neuorganisation im Jahr 1935 lediglich die
+Lager in Bad Sulza, Berlin-Tempelhof, Dachau, Hainewalde,
+Hamburg-Fuhlsbüttel, Kislau, Lichtenburg, Mohringen und Sachsenburg
+bestehen blieben. In der zweiten Phase zwischen 1936 und 1938 waren jene
+Menschen von der Schutzhaft betroffen, die nicht dem
+nationalsozialistischen Bild entsprachen. In der damaligen Redeweise
+galt dies für Bibelforscher (Zeugen Jehovas), Assoziale, Berufs- und
+Gewohnheitsverbrecher, Arbeitsscheue, Homosexuelle und seit 1938,
+besonders im Gefolge der Reichsprogromnacht, auch für Juden und andere
+Nichtarier. Kurz vor Kriegsbeginn setzte die dritte Phase ein. Der
+erwartete Anstieg der Gefangenenzahlen durch die Deportation von Juden
+in den besetzten Gebieten führte zu einer abermaligen Neuorganisation
+der Konzentrationslager. Zu den insgesamt sechs großen Lagern innerhalb
+des Reichsgebiets, die jeweils für mehrere tausend Gefangene ausgelegt
+waren, kamen nach Beginn des Krieges die Lager Auschwitz (1940), Hinzert
+(1940), Groß Rosen (1941), Natzweiler (1941), Lublin (1941), Wewelsburg
+(1941), Arbeitsdorf (1942) und Stutthof (1942) hinzu.\
+Als im Winter 1941/42 die Blitzkrieg-Strategie gegen die Sowjetunion
+scheiterte und eine Reihe von Niederlagen seitens der
+Nationalsozialisten folgte, musste man sich auf einen länger anhaltenden
+Abnutzungskrieg einstellen. Die kriegswirtschaftliche Umstellung auf den
+totalen Krieg und die damit verbundene Mobilmachung von Arbeitskräften
+bestimmte maßgeblich die vierte Phase der Konzentrationslager, deren
+Auswirkungen hier am Beispiel der Lager in Görlitz und Rennersdorf
+dokumentiert werden. Beide Lager vermitteln exemplarisch Einblick in das
+Wesen der nationalsozialistischen Gewaltherrschaft, die nicht als
+zentrales Ungeheuer, sondern als allgegenwärtige Erscheinung, fernab von
+Auschwitz und Buchenwald auftrat. Die Ansiedlung von
+Konzentrationslagern in der unmittelbaren Nähe von Rüstungsbetrieben
+konfrontierte die alltägliche Lebenswelt der Deutschen mit den
+Ausprägungen von Terror und Gewalt im Leben der KZ-Häftlinge. Die
+Wechselwirkungen und Beziehungen zwischen KZ-Kosmos und zivilem Alltag,
+Einfluss und Zusammenspiel von Wirtschaft und Staat, sowie Wissen und
+Bewusstsein der Bevölkerung sind am Gegenstand der KZ-Außenlager besser
+zu erklären als an anderen Erscheinungsformen der
+nationalsozialistischen Herrschaft. Anliegen dieser Dokumentation ist
+die rationale Darstellung der Geschehnisse und Zusammenhänge in den
+KZ-Außenlagern Görlitz und Rennersdorf einschließlich ihrer Auswirkungen
+in der Nachkriegszeit. Anstatt einzelne Gruppen als Schuldige
+auszumachen, wird versucht das Wirken des Systems als Ganzes beleuchtet.
+
+[^1]: <http://softbook.nise81.com/changelog.txt>.
+
+[^2]: Vgl. Kotek / Rigoulot: Das Jahrhundert der Lager, S. 71.
+
+[^3]: Kotleg und Rigoulot schreiben, dass 1905 in den
+    Konzentrationslagern mehr als die Hälfte (7862 Personen) der 10.632
+    Frauen und Kinder und 4137 Männer ums Leben kamen. Vgl. Kotek /
+    Rigoulot: Das Jahrhundert der Lager, S.80.
+
+[^4]: Großen Privatunternehmen hatte man bereits eigene Lager
+    zugesprochen, wohingegen kleine Firmen täglich die von ihnen
+    benötigen Arbeitskräfte bezogen. Ebenda, S. 80ff. Vielfach unbekannt
+    ist darüber hinaus, dass an den Gefangenen bereits medizinische
+    Experimente durchgeführt wurden; u.a. von den späteren Lehrmeistern
+    Josef Mengeles, Eugen Fischer und Theodor Millisson.
+
+[^5]: Naftaly Aronovich Frenkel, ein zum Lagerkommandanten
+    aufgestiegener Häftling prägte den Satz: Aus dem Häftling müssen wir
+    alles in den ersten drei Monaten herausholen - danach brauchen wir
+    ihn nicht mehr.  Kotek / Rigoulot: Das Jahrhundert der Lager, S.
+    181.
+
+[^6]: RGB 1933, Teil 1, S83.

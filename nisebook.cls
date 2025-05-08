@@ -331,7 +331,8 @@
     \setlength{\fboxsep}{0pt}
     \def\zeroo{0} 
     \if #6\zeroo
-    	\fbox{\includegraphics[width=.99\linewidth]{images/#2}}
+    	\fbox{
+       \includegraphics[width=.99\linewidth]{images/#2}}
     \else 
     	\fbox{\includegraphics[scale=#6]{images/#2}}
     \fi

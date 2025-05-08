@@ -9,7 +9,16 @@ Dieses Repositorium enthält die Quelldateien des Buches im LaTeX-Format (main.t
 
 **Website**
 
-1. `pandoc main.tex --from latex --to markdown -o web/main.qmd`
+
+latexpand main.tex > main-expanded.tex 
+
+pandoc test.tex --shift-heading-level-by=1 --from latex --to markdown -o web/main.qmd 
+
+cp images ...
+
+
+1. Convert LaTeX to markdown using [pandoc](https://pandoc.org/MANUAL.html): 
+`pandoc main.tex --lua-filter=lua-filter-myfigure.lua --from latex --to markdown -o web/main.qmd`
 --default-image-extension=EXTENSION
 --shift-heading-level-by=NUMBER 
 --extract-media=DIR
@@ -20,3 +29,5 @@ Dieses Repositorium enthält die Quelldateien des Buches im LaTeX-Format (main.t
 --resource-path=SEARCHPATH
 --figure-caption-position=above|below
 --table-caption-position=above|below
+2. Create website from markdown using [quarto](https://quarto.org/docs/websites/): `quarto render`
+

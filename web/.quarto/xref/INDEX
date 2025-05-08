@@ -7,5 +7,35 @@
   },
   "main.qmd": {
     "main.html": "411d6a67"
+  },
+  "000-title.qmd": {
+    "000-title.html": "7d286e94"
+  },
+  "010-intro.qmd": {
+    "010-intro.html": "13c3d613"
+  },
+  "030-evakuierung.qmd": {
+    "030-evakuierung.html": "65e5cfec"
+  },
+  "040-ermittlungen.qmd": {
+    "040-ermittlungen.html": "fad75e6f"
+  },
+  "050-gedenken.qmd": {
+    "050-gedenken.html": "ddde4051"
+  },
+  "060-zusammenfassung.qmd": {
+    "060-zusammenfassung.html": "018f2326"
+  },
+  "a080-opferlisten.qmd": {
+    "a080-opferlisten.html": "83d3b850"
+  },
+  "a090-verzeichnisse.qmd": {
+    "a090-verzeichnisse.html": "cef5e1dc"
+  },
+  "a100-about.qmd": {
+    "a100-about.html": "1e2753ce"
+  },
+  "020-goerlitz.qmd": {
+    "020-goerlitz.html": "1d053ba7"
   }
 }
