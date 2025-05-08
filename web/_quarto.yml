@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: ../docs
   render:
+  - index.qmd
   - 000-title.qmd
   - 010-intro.qmd
   - 020-goerlitz.qmd
