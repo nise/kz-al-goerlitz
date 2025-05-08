@@ -10,22 +10,35 @@ project:
   - 040-ermittlungen.qmd
   - 050-gedenken.qmd
   - 060-zusammenfassung.qmd
-  - a070-testiminies.qmd
+  - a070-testimonies.qmd
   - a080-opferlisten.qmd
   - a090-verzeichnisse.qmd
   - a100-about.qmd
+  - about.qmd
 
 website:
-  title: "KZ Außenlager Görlitz"
+  title: "KZ Außenlager Görlitz und Rennersdorf"
+  #favicon: logo.png
+  site-url: https://nise.github.io/kz-al-goerlitz
+  bread-crumbs: true
+  open-graph:
+    description: ""
+    locale: de_DE
+  back-to-top-navigation: true
+  reader-mode: false
+  page-footer:
+    left: "Lizensiert unser Creative Commons, CC-BY <br> Niels Seidel: Die KZ-Außenlager Görlitz und Rennersdorf"
+    right:
+    - href: https://www.nise81.com
 
   navbar:
     background: primary
     search: true
     pinned: true
     # contents: auto
-    left:
-    - text: "Home"
-      href: 000-title.qmd
+    right:
+    #- text: "Home"
+    #  href: index.qmd
     - text: "about"
       href: about.qmd
 
@@ -35,29 +48,37 @@ website:
     contents:
     - text: "Vorwort"
       href: 010-intro.qmd
+    - text: "&nbsp;"
     - text: "Das KZ-Außenlager Görlitz"
       href: 020-goerlitz.qmd
+    - text: "&nbsp;"
     - text: "Todesmarsch nach Rennersdorf und Befreiung in Görlitz"
       href: 030-evakuierung.qmd
+    - text: "&nbsp;"
     - text: "Ermittlungen gegen NS-Verbrechen"
-      href: 040-ermittlungen.qmd
+      href: 040-ermittlungen.qm
+    - text: "&nbsp;"
     - text: "Gedenken und Erinnerung der Opfer"
       href: 050-gedenken.qmd
+    - text: "&nbsp;"
     - text: "Zusammenfassung"
       href: 060-zusammenfassung.qmd
+    - text: "&nbsp;"
+    - text: "---"
     - section: "Anhang"
       contents:
       - text: "Testimonien"
-        href: a070-testitmonies.qmd
+        href: a070-testimonies.qmd
       - text: "Verzeichnisse von Toten und Überlebenden"
         href: a080-opferlisten.qmd
-      - text: "Verzeichnisse"
-        href: a090-verzeichnisse.qmd
-    - text: "Über dieses Buch"
-      href: a100-about.qmd
+      #- text: "Verzeichnisse"
+      #  href: a090-verzeichnisse.qmd
 
 format:
   html:
+    lang: de
     toc: true # hide inline toc
     toc-level: 6
-    theme: cosmo
+    theme:
+      light: [ flatly, custome.css ] # cosmo
+      dark: [ darkly, custome.css ]

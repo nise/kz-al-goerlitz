@@ -1,7 +1,4 @@
----
-title: "kzal"
----
+![](images/cover.png){width=200}
 
-This is a Quarto website.
+{{< include 000-title.qmd >}}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

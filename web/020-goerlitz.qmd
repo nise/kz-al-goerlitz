@@ -155,7 +155,7 @@ Lager, spätestens Mitte 1944, von Groß-Rosen übernommen worden sein.
 
 ::: flushleft
 <figure>
-
+<img src="images/lager0.jpg" />
 <figcaption>Luftaufnahme des Barackenlagers im Biesnitzer Grund vom 30.
 Mai 1944. Luftbilddatenbank, Ing.-Büro Dr. H.G. Carls.</figcaption>
 </figure>

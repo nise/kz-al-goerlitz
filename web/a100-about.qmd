@@ -79,10 +79,11 @@ Bereich Wirtschaftsinformatik an der TU Dresden am Internationel
 Hochschulinstitut in Zittau. Seit 2017 lehrt und forscht er zu
 Bildungstechnologien an der FernUniversität in Hagen. Am *Center for
 Advanced technology for Assistant Learning and Predictive Analytics*
-(CATALPA) beschäftigt er sich seit 2023 mit Education Data Mining und
-Learning Analytics in der Hochschulbildung. Als Senior Researcher hat er
-über einhundert Forschungsarbeiten veröffentlicht, darunter Artikel in
-renomierten Fachjournalen und hochrangigen Konferenzen.
+(CATALPA) beschäftigt er sich seit 2023 mit Learning Analytics,
+Educational Data Mining und dem Einsatz von künstlicher Intelligenz in
+der Bildung. Als Senior Researcher hat er über einhundert
+Forschungsarbeiten veröffentlicht, darunter Artikel in renomierten
+Fachjournalen und hochrangigen Konferenzen.
 
 Seit 2004 widmet er sich der historischen Aufarbeitung der Außenlager
 des KZ Groß-Rosen und seit 2010 auch dem NS-Propagandafilm

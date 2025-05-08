@@ -1,4 +1,8 @@
 #
+for file in images/*.pdf; do
+  convert -density 300 "$file" "${file%.pdf}.png"
+done
+cp images/* web/images/
 pandoc chapter/010-intro.tex --shift-heading-level-by=1 --from latex --to markdown -o web/010-intro.qmd
 pandoc chapter/020-goerlitz.tex --shift-heading-level-by=1 --from latex --to markdown -o web/020-goerlitz.qmd  
 latexpand chapter/030-evakuierung.tex > chapter/030-evakuierung-expanded.tex 
