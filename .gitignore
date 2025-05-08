@@ -1,1 +1,7 @@
 main.pdf
+*.log
+*.idx
+*.cnf
+*.out
+*.aux
+*.toc

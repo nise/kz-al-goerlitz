@@ -37,8 +37,6 @@ website:
     pinned: true
     # contents: auto
     right:
-    #- text: "Home"
-    #  href: index.qmd
     - text: "about"
       href: about.qmd
 
@@ -56,7 +54,7 @@ website:
       href: 030-evakuierung.qmd
     - text: "&nbsp;"
     - text: "Ermittlungen gegen NS-Verbrechen"
-      href: 040-ermittlungen.qm
+      href: 040-ermittlungen.qmd
     - text: "&nbsp;"
     - text: "Gedenken und Erinnerung der Opfer"
       href: 050-gedenken.qmd
@@ -77,8 +75,16 @@ website:
 format:
   html:
     lang: de
-    toc: true # hide inline toc
-    toc-level: 6
+    toc: true # show/hide inline toc
+    toc-depth: 6
+    # toc-location: left
+    toc-titel: "Seiteninhalte"
+    toc-expand: true
+    number-sections: true
+    number-depth: 3
+    cap-location: bottom
+    fig-align: center
+    lightbox: true
     theme:
       light: [ flatly, custome.css ] # cosmo
       dark: [ darkly, custome.css ]

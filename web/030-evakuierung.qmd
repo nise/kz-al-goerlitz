@@ -359,6 +359,11 @@ Etwa 15 Häftlinge blieben zurück, um den Hof zu säubern. Sie stießen ein
 paar Stunden später wieder zu uns. Wir mussten zum Appell antreten.[^44]
 :::
 
+<figure id="goebelscheune">
+<img src="images/tm_goebel.jpg" />
+<figcaption>Stallung auf dem Göbelschen Gut in Obersohland</figcaption>
+</figure>
+
 Jakob[]{#rosenbaum label="rosenbaum"} Rosenbaum:
 
 ::: leftbar
@@ -603,6 +608,11 @@ Rennersdorf dennoch als KZ-Außenlager bezeichnet, um damit einerseits
 den Charakter eines KZ-Lagers auszudrücken und andererseits eine von der
 Existenzdauer unabhängige Benennung beizubehalten[^62].
 
+<figure id="gutoberrennersdorf">
+<img src="images/renn01.jpg" />
+<figcaption>Das Gut Oberrennersdorf</figcaption>
+</figure>
+
 #### Die Haftbedingungen im Lager Rennersdorf
 
 Das Außenlager Rennersdorf hatte einen stark provisorischen Charakter
@@ -615,6 +625,11 @@ Neundorf. Der Pferdestall teilt sich in vier Abschnitte. Im hinteren,
 vierten Abschnitt, welcher dem Gutshof am nächsten liegt, waren die
 Frauen untergebracht. In den anderen drei Abschnitten waren die Männer
 einquartiert.
+
+<figure id="pferdestallfoto">
+<img src="images/renn03.jpg" />
+<figcaption>Pferdestall in Rennersdorf</figcaption>
+</figure>
 
 Die Situation der Häftlinge war geprägt durch die gesundheitlichen
 Folgen des langen Marsches und die Unzulänglichkeiten des provisorischen
@@ -828,6 +843,8 @@ der Lagerführer bezog während dieser Zeit mit seinen Hunden und seinen
 bediensteten Häftlingen (Stiefelputzer) die Schmidt-Mühle am
 Fuchsberg[^84] (Bild  ).
 
+![Schmidt-Mühle](images/renn02.jpg){#schmidtfoto width="\\linewidth"}
+
 #### SS-Terror in Rennersdorf
 
 Wie bereits erwähnt, begann das Morden schon bei Ankunft der Gefangenen
@@ -856,6 +873,12 @@ ihnen befand sich auch ein 18-jähriger Häftling, der erschossen wurde,
 weil er sich aus der Rübenmiete eine Runkelrübe beschafft hat, um sie zu
 essen.[^87]
 :::
+
+<figure id="wiesenweg">
+<img src="images/renn04.jpg" />
+<figcaption>Der einstige Erschießungsort am Wiesenweg ist heute ein
+Teich.</figcaption>
+</figure>
 
 Helmut Sperling verbrachte in Kindheitstagen viel Zeit bei einem Freund
 auf dem Gutshof und erinnert sich an mehr als vier Exekutionen am Damm

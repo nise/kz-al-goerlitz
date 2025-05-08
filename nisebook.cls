@@ -18,7 +18,7 @@
 
 %%%% XETEX Typesetting / Font
 \usepackage{xltxtra} % unicode support
-\setmainfont[Mapping=tex-text]{DroidSans}% }%{Gentium Book Basic}
+%\setmainfont[Mapping=tex-text]{Gentium Book Basic}% }%{Gentium Book Basic} DroidSans
 % good for printing: {Cardo}
 %ą
 
