@@ -1,5 +1,6 @@
 ---
 title: "Über diese Webseite"
+toc: false
 abstract-title: ""
 abstract: "Das Material für diese Webseite stammt aus dem Buch 'Die KZ-Außenlager Görlitz und Rennersdorf' welches 2008 im Neißeverlag und später online veröffentlicht wurde."
 image: images/cover.png

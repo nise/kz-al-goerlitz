@@ -1,3 +1,6 @@
+---
+toc: false
+---
 ![](images/cover.png){width=200}
 
 {{< include 000-title.qmd >}}

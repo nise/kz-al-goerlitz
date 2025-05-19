@@ -4,7 +4,7 @@
 Autor: Niels Seidel
 [www.nise81.com](http://www.nise81.com) \| <niels.seidel@nise81.com>\
 Version: 2.0\
-Datum: 2025-05-07\
+Datum: 2025-05-08\
 
 Herausgeber: Umweltbibliothek Großhennersdorf e.V.
 www.umweltbibliothek.org \| mail@umweltbiblithek.org
@@ -14,7 +14,7 @@ Diese Publikation ist unter *Creative Commons --
 Namensnennung-NichtKommerziell-KeineBearbeitung 3.0 Deutschland*
 lizenziert und darf als Ganzes oder ausschnittweise vervielfältigt,
 verbreitet und öffentlich zugänglich gemacht werden, sofern dies im Text
-nicht anders vermerkt ist. ![image](images/logo_cc.pdf){height="20mm"}\
+nicht anders vermerkt ist. ![image](images/logo_cc.jpg){height="20mm"}\
 \
 \
 Die 1. Auflage erschien im Neisse Verlag, Dresden 2008\
