@@ -1,3 +1,7 @@
+---
+number-offset: [ 3 ]
+---
+
 ## Ermittlungen gegen NS-Verbrechen
 
 Das Blatt hatte sich längst gewendet -- die einstigen Angreifer,

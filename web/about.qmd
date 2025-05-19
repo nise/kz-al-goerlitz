@@ -1,21 +1,18 @@
 ---
 title: "Über diese Webseite"
+abstract-title: ""
+abstract: "Das Material für diese Webseite stammt aus dem Buch 'Die KZ-Außenlager Görlitz und Rennersdorf' welches 2008 im Neißeverlag und später online veröffentlicht wurde."
+image: images/cover.png
 about:
-  id: hero-heading
-  template: solana
-  image: images/cover.png
-  links:
-    - text: Webseite
-      href: https://www.nise81.com/
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/niels-seidel-a6761434b/
-    - icon: github
-      text: Github
-      href: https://github.com/nise 
+  template: solana  
 ---
-
-Das Material für diese Webseite stammt aus dem Buch "Die KZ-Außenlager Görlitz und Rennersdorf", welches 2008 im Neißeverlag und später online veröffentlicht wurde. 
 
 
 {{< include a100-about.qmd >}}
+
+
+Weiterführende Links:
+
+* [https://www.nise81.com/](Webseite des Autors)
+* [https://www.linkedin.com/in/niels-seidel-a6761434b/]()
+* [https://github.com/nise/kz-al-goerlitz](GitHub-Code zu dieser Webseite)

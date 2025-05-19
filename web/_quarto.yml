@@ -42,24 +42,30 @@ website:
 
   sidebar:
     style: "docked"
-    search: true
+    # search: true
     contents:
     - text: "Vorwort"
+      number-offset: -1
       href: 010-intro.qmd
     - text: "&nbsp;"
     - text: "Das KZ-Außenlager Görlitz"
+      number-offset: 0
       href: 020-goerlitz.qmd
     - text: "&nbsp;"
     - text: "Todesmarsch nach Rennersdorf und Befreiung in Görlitz"
+      number-offset: [ 2 ]
       href: 030-evakuierung.qmd
     - text: "&nbsp;"
     - text: "Ermittlungen gegen NS-Verbrechen"
+
       href: 040-ermittlungen.qmd
     - text: "&nbsp;"
     - text: "Gedenken und Erinnerung der Opfer"
+      number-offset: 4
       href: 050-gedenken.qmd
     - text: "&nbsp;"
     - text: "Zusammenfassung"
+      number-offset: 5
       href: 060-zusammenfassung.qmd
     - text: "&nbsp;"
     - text: "---"

@@ -3,6 +3,16 @@ img {
     max-width: 100%;
 }
 
+@media (max-width: 991.98px) {
+  div.quarto-about-solana .about-entity {
+    text-align: left !important;
+  }
+
+  div.quarto-about-solana {
+    text-align: left;
+  }
+}
+
 /*-- scss:rules --*/
 
 /*-- scss:mixins --*/
